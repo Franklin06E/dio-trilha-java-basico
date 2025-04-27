@@ -1,0 +1,54 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Operadores005",
+            "request": "launch",
+            "mainClass": "Operadores005",
+            "projectName": "JAVA-OPERADORES_21fc709c"
+        },
+        {
+            "type": "java",
+            "name": "Operadores004",
+            "request": "launch",
+            "mainClass": "Operadores004",
+            "projectName": "JAVA-OPERADORES_21fc709c"
+        },
+        {
+            "type": "java",
+            "name": "Operadores003",
+            "request": "launch",
+            "mainClass": "Operadores003",
+            "projectName": "JAVA-OPERADORES_21fc709c"
+        },
+        {
+            "type": "java",
+            "name": "Operadores002",
+            "request": "launch",
+            "mainClass": "Operadores002",
+            "projectName": "JAVA-OPERADORES_21fc709c"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "JAVA-OPERADORES_21fc709c"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/app.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "command": "npm start",
+            "name": "Run npm start",
+            "request": "launch",
+            "type": "node-terminal"
+        }
+    ]
+}
